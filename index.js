@@ -74,7 +74,7 @@ setTimeout(() => {
 }, 2800);
 
 setTimeout(() => {
-  pageLeft.style.zIndex = 30;
+  pageLeft.style.zIndex = 20;
 }, 3200);
 
 pages.forEach((_, index) => {
